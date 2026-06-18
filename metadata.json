@@ -1,0 +1,8 @@
+{
+  "name": "真正的時光機",
+  "description": "真正的時間機器，體驗穿越未來的每一秒鐘。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
